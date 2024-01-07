@@ -12,16 +12,13 @@ This repository presents a Python script for predicting the age of individuals i
 ### Setup Instructions
 #### 1. Clone the repository:
 ```
-git clone https://github.com/your-username/age-estimation.git
+git clone https://github.com/Tayyab-Syed/Age-Detection-OpenCV
 ```
 
 #### 2. Install Dependencies:
 ```
 pip install opencv-python numpy
 ```
-#### 3. Download Weights for Model:
-- [Google Drive](https://drive.google.com/drive/folders/1p2GOMGMj1kjU7SxkNYWWxtAWyNSkpmdW?usp=sharing)
-
 ## Usage
 Run the predict_age function in the terminal:
 ```
